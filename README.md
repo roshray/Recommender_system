@@ -3,3 +3,6 @@ Script that reads in a Dataset of movie rating and then recommends new movie for
 # Library and Dataset
 Library:lightfm
 Datasets:movielens
+
+# Result's Screenshot
+![Screenshot](https://github.com/roshray/Recommender_system/blob/master/movie_rec.png)
